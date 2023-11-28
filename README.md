@@ -1,4 +1,4 @@
-# M123_TMP ePortfolio
+# M123 TMP ePortfolio
 
 -----------------
 Inhaltsverzeichnis:
@@ -9,22 +9,22 @@ Inhaltsverzeichnis:
 -----------------
 
 ## DHCP
-Text
-- Listing
-- Listing
+Themen
+- [DHCP in a Nutshell](DHCP/README.md)
 
+-----------------
 ## DNS
-Text
-- Listing
-- Listing
+Themen
+######  DNS Thema Folgt...
 
+-----------------
 ## CISCO Paket
-Text
-- Listing
-- Listing
+Themen
+###### CISCO Thema Folgt...
 
-## Other
-Text
-- Listing
-- Listing
+-----------------
+
+## OTHER
+Themen
+###### Andere Themen sind noch nicht zu zeigen.
 
