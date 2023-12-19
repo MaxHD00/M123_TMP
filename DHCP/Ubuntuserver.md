@@ -45,9 +45,12 @@ Das gleiche auch bei den DHCP configurationen:
 <img width="410" alt="aaconfigure_ubuntudhcp_dhcpd-config" src="https://github.com/MaxHD00/M123_TMP/assets/31143468/b07a6af9-4648-4f15-a894-ee3f1024b0de">
 
 Wir waren zuversichtlich, allerdings hatten wir noch einen Fehler.
-Der Fehler war es, dass wir die falsche Netzmaske angegeben haben.
 
 <img width="493" alt="aaconfigure_ubuntudhcp_troubleshooting_1" src="https://github.com/MaxHD00/M123_TMP/assets/31143468/3b34c8b8-c511-447b-ab87-d6076c97f0c4">
+
+Der Fehler war es, dass wir die falsche Netzmaske angegeben haben.
+
+<img width="188" alt="aaconfigure_ubuntudhcp_dhcpd-config_subnet" src="https://github.com/MaxHD00/M123_TMP/assets/31143468/093504f7-4f41-4087-affa-b6eea8e00fa1">
 
 Nachdem wir den Fehler behoben haben, ist es uns gelungen den DHCP server komplett zum laufen zu bringen.
 
@@ -61,3 +64,4 @@ Das Windows OS hat dann die richtige IP Adresse angezeigt.
 Und die leases configurations waren auch korrekt.
 
 <img width="308" alt="aaconfigure_ubuntudhcp_leases 1" src="https://github.com/MaxHD00/M123_TMP/assets/31143468/b01f008d-8d62-46fe-91ee-09315e579098">
+
