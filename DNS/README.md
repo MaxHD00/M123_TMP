@@ -54,7 +54,7 @@ Bei den Reverse DNS Einstellungen müssen diese auch angegeben werden. Allerding
 <img width="464" alt="4Screenshot 2024-01-09 150743" src="https://github.com/MaxHD00/M123_TMP/assets/31143468/e3dc9e36-70da-431b-8e8b-4e5c38a8d5fa">
 
 Nachdem das alles eingerichtet und eingestellt wurde teste ich erstmal den Pingaustausch zwischen Server und Client.
-Dieser brachte einige komplikationen. Aber nach eine weile funktionierte auch das.
+Dieser brachte einige komplikationen. Aber nach eine weile funktionierte auch das. Das Hauptproblem war, dass der Server die fixe IP Adresse 192.168.100.1 nicht nutzten konnte, welche davor vom Server verwendet wurde. Der Server hat ein DHCP Fehler mit 169.254.X.X ausgegeben. Diese wurde dann in 192.168.100.3 geändert.
 
 Client:
 
