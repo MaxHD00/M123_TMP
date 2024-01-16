@@ -4,6 +4,7 @@
 #### Inhaltsverzeichnis:
 - [DHCP](#dhcp)
 - [DNS](#dns)
+- [SAMBA](#samba)
 - [CISCO Paket](#cisco-paket)
 - [Other](#other)
 ---
